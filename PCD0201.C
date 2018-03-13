@@ -1,3 +1,11 @@
+/*
+Building Recursively Decent Parser on the following grammar
+
+E -> iF
+F -> +iE / null
+
+*/
+
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
